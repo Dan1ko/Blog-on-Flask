@@ -1,0 +1,10 @@
+.vscode/
+env/
+__pycache__
+.env/
+.env
+.history
+.vscode
+.logs
+.migrations
+
